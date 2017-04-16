@@ -1,0 +1,50 @@
+body{
+	font-size: 1.3em;
+}
+
+table{
+	margin-top: 10px;
+    height:300px;
+
+}
+
+table.altrowstable {  
+    font-family: verdana,arial,sans-serif;  
+    font-size:17px;  
+    color:#333333;  
+    border-width: 1px;  
+    border-color: #a9c6c9;  
+    
+}  
+table.altrowstable th {  
+    border-width: 1px;  
+    padding: 8px;  
+    border-style: solid;  
+    border-color: #a9c6c9;
+    background-color:#CCEEFF;  
+}  
+table.altrowstable td {  
+    border-width: 1px;  
+    padding: 8px;  
+    border-style: solid;  
+    border-color: #a9c6c9; 
+    border-radius: 5px; 
+}  
+.oddrowcolor{  
+    background-color:#d4e3e5;  
+}  
+.evenrowcolor{  
+    background-color:#c3dde0;  
+} 
+a{ 
+	text-decoration:none;
+	color: black;
+} 
+button{
+	font-size: 17px;
+	background-color: #CCEEFF;
+	border-radius: 10px;
+	height: 30px;
+	width: 60px;
+}
+
